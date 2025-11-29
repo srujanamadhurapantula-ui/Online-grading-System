@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(184, 209, 209);
+    min-height: 100vh;
+    border:10px solid #1D1E4C;
+}
+.content{
+    max-width: 900px;
+    margin: auto;
+}
+.img_container,img{
+  width: 300px;
+  height: 300px;
+}
